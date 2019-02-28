@@ -1,0 +1,32 @@
+body{
+    background-image: url("images/background.gif");
+}
+.main{
+    border: 10px white solid;
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+      
+}
+.head{
+    text-align: right;
+    background-color: #A8F0F0;
+}
+.head h2{
+    font-size: 14pt;
+}
+.post{
+    border: 4px #C2E9E9 solid;
+    background-color: #E8FBFB;
+    padding: 10px;
+    margin-top: 10px;
+    overflow: hidden;
+       
+}
+#date{
+    border-bottom: 2px blue dashed;
+}
+.post img{
+    float: right;
+}
+
